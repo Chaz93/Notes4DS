@@ -11,13 +11,16 @@
 | Paxos Made Live – An Engineering Perspective | 2007 | Consensus | 2020.1 | | |
 | ZooKeeper: Wait-free coordination for Internet-scale systems | 2010 | Consensus | 2020.1 | | |
 | The hadoop distributed file system | 2010 | BigData | 2020.1 | | | 
+| SCOPE: parallel databases meet MapReduce | 2012 | BigData | 2020.1 | | |
 | Raft: In search of an Understandable Consensus Algorithm | 2014 | Consensus | 2020.1 | | |
 | Efficient Replica Maintenance for Distributed Storage Systems | 2006 | Storage | 2020.2 |	| |
-| Dynamo: amazon's highly available key-value store | 2007 | Storage | 2020.2 | | |  	
+| Dynamo: amazon's highly available key-value store | 2007 | Storage | 2020.2 | | | 
+| Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks | 2007 | BigData | 2020.2 | | |	
 | MapReduce: Simplified Data Processing on Large Clusters | 2008 | BigData | 2020.2 | | | 
 | Spark: Cluster computing with working sets | 2010 | BigData | 2020.2 | | | 
-| Windows Azure Storage: a highly available cloud storage service with strong consistency | 2011 | Storage | 2020.2 | | | 	
-| Spanner: Google’s Globally-Distributed Database | 2013 | Storage | 2020.2 | | |	
+| Windows Azure Storage: a highly available cloud storage service with strong consistency | 2011 | Storage | 2020.2 | | |
+| Spanner: Google’s Globally-Distributed Database | 2013 | Storage | 2020.2 | | |
+| A Characteristic Study on Failures of Production Distributed Data-Parallel Programs | 2013 | BigData | 2020.2| | |
 | Fast in-memory transaction processing using RDMA and HTM | 2015 | Storage | 2020.2 | | |	
 | Availability in Globally Distributed Storage Systems | 2010 | Storage | 2020.3 | | |
 | Finding a needle in Haystack: Facebook’s photo storage | 2010 | Storage | 2020.3 | | | 
