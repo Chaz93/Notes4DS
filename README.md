@@ -2,7 +2,7 @@
 ## 学习计划
 | 名称 | 发表日期 | 类别 | 预期截止时间 | issue id | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| The Google File System | 2003 | BigData | 2019.12 | | | 
+| The Google File System | 2003 | BigData | 2019.12 | 1 | | 
 | The Chubby lock service for loosely-coupled distributed systems | 2006 | LockService | 2019.12 | | |  	
 | Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center | 2011 | Scheduler | 2019.12 |  | [源码](https://github.com/apache/mesos) | 
 | The Part-Time Parliaments | 1998 | Consensus | 2020.1 | | | 
